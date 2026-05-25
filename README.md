@@ -1,6 +1,6 @@
 # Solver
 
-![Preview of the font](Solver/Complete/SolverOutline.png)
+![Preview of the font](Solver/Complete/PNG/SolverOutline.png)
 
 
 ## Description
