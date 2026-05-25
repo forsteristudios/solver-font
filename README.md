@@ -1,11 +1,10 @@
 # Solver
 
-![Preview of the font](Solver/Complete/PNG/SolverOutline.png)
-
+![Preview of the font](Misc/Preview.png)
 
 ## Description
 
-Solver is a pixel art font inspired by Silver Font.
+Solver is a pixel art font inspired by [Silver](https://poppyworks.itch.io/silver) Font.
 It is used in many of our Construct 3 examples and is well suited for retro-style games, UI, and pixel art projects.
 
 We distribute two sizes of the font: **Complete** and **Reduced**. **Complete** includes accents and additional special characters, while **Reduced** provides a compact character set containing only what we need to build our examples.
